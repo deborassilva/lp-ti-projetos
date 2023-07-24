@@ -1,10 +1,9 @@
+import SinglePage from "./pages/SinglePage"
 
 function App() {
 
   return (
-   <main>
-
-   </main>
+   <SinglePage />
   )
 }
 
